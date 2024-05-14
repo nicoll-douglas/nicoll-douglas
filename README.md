@@ -1,1 +1,2 @@
-hello world
+- rookie web developer
+- currently learning react
