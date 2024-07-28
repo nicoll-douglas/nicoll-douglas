@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: API Development<br>🎯 Goals: To build something great<br>🎲 Fun fact: I am self-taught</p>
+<p align="left">📚 I'm currently learning: API Development<br>🎯 Goals: To never stop learning<br>🎲 Fun fact: I am self-taught</p>
 
 ###
 
