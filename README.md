@@ -6,5 +6,5 @@
 
 - Learn TypeScript
 - Become proficent with NextJS
-- New Project
+- New project
 - Learn C (eventually)
