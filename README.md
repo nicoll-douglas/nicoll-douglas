@@ -1,8 +1,8 @@
-#### Currently Learning:
+### Currently Learning:
 
 - Java
 
-#### To Do List:
+### To Do List:
 
 - Learn TypeScript
 - Become proficient with NextJS
