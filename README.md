@@ -5,4 +5,4 @@ Take a look around and links are on the sidebar for more about me!
 
 ## What I Have In My Toolbox 🧰
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,next,php,laravel,mysql,mongo,googlecloud,ubuntu,git&perline=10)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,next,php,laravel,mysql,mongo,googlecloud,ubuntu,git)
